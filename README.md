@@ -1,2 +1,0 @@
-# My-favorite-band-project
-
