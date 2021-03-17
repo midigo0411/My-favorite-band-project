@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # {my favorite band}
 #### {The site that shows favorite band}
 #### By **{Elvis Midigo}**
@@ -17,3 +18,7 @@
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{Elvis Midgo}**
+=======
+# My-favorite-band-project
+My-favorite-band
+>>>>>>> 7915064355dd07f5bac815af6030575848150c94
