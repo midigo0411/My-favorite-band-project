@@ -1,6 +1,6 @@
 # {my favorite band}
 #### {The site that shows favorite band}
-#### By **{List of contributors}**
+#### By **{Elvis Midigo}**
 ## Description
 {Favorite band is the website that filters out greatest artist in a country at a glance }
 ## Setup/Installation Requirements
