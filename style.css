@@ -1,0 +1,40 @@
+body {
+    background-color: cornsilk;
+}
+
+h1, h2 {
+    text-align: center;
+    border: 3px solid black;
+
+}
+
+img {
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+}
+
+
+
+
+    
+    
+
+
+
+.article {
+    font-family: "Times New Roman", Times, serif;
+    
+}
+
+.my_band{
+    background-color: blue;
+    border-style: solid;
+    width: auto;
+
+
+}
+
+
+
+
